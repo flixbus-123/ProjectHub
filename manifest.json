@@ -1,0 +1,30 @@
+{
+  "name": "ProjectHub",
+  "short_name": "ProjectHub",
+  "description": "Deine persönliche Projekt- und Maker-Verwaltung",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#070a10",
+  "theme_color": "#4f8cff",
+  "lang": "de",
+  "categories": [
+    "productivity",
+    "utilities"
+  ],
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
